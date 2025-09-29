@@ -34,7 +34,6 @@ This repository contains an **all-in-one Streamlit application** (designed for G
 
 ##  Project Files
 
-* `ml_full_app.py` → Main Streamlit app
 * `ML_Tasks_Full_App.ipynb` → Colab notebook to run the app
 
 ---
