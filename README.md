@@ -1,8 +1,10 @@
 
 #  Machine Learning Tasks — Streamlit App
 
-This repository contains an **all-in-one Streamlit application** (designed for Google Colab) that covers **8 core Machine Learning tasks**, ranging from beginner regression models to advanced deep learning applications.
+This repository contains an **all-in-one Streamlit application** (designed for Google Colab) that covers ** core Machine Learning tasks**, ranging from regression models to advanced deep learning applications.
 ![Home Page](1.png)
+
+![Clustering](2.png)
 ---
 
 ## Features
