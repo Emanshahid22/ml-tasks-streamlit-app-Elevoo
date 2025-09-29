@@ -7,9 +7,6 @@ This repository contains an **all-in-one Streamlit application** (designed for G
 ![Clustering](Task2.png)
 ---
 
-## 🎥 Demo
-![Demo](ML_Task1_Demo.gif)
-
 ## Features
 
 ###  Implemented Tasks
