@@ -5,9 +5,9 @@ This repository contains an **all-in-one Streamlit application** (designed for G
 
 ---
 
-## 🚀 Features
+## Features
 
-### 🔹 Implemented Tasks
+###  Implemented Tasks
 
 1. **Student Score Prediction** (Linear & Polynomial Regression)
 2. **Customer Segmentation** (KMeans, DBSCAN Clustering)
@@ -20,7 +20,7 @@ This repository contains an **all-in-one Streamlit application** (designed for G
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Languages & Frameworks:** Python, Streamlit
 * **Libraries:**
@@ -30,14 +30,14 @@ This repository contains an **all-in-one Streamlit application** (designed for G
 
 ---
 
-## 📂 Project Files
+##  Project Files
 
 * `ml_full_app.py` → Main Streamlit app
 * `ML_Tasks_Full_App.ipynb` → Colab notebook to run the app
 
 ---
 
-## ⚡ How to Run in Google Colab
+##  How to Run in Google Colab
 
 1. Clone the repo or upload the files to Colab.
 2. Install dependencies:
@@ -59,11 +59,11 @@ This repository contains an **all-in-one Streamlit application** (designed for G
    public_url = ngrok.connect(8501)
    public_url
    ```
-5. Click the generated **ngrok link** → Your app is live! 🎉
+5. Click the generated **ngrok link** → Your app is live! 
 
 
 
-## 📌 Key Learnings
+##  Key Learnings
 
 * End-to-end ML workflows: preprocessing → model training → evaluation → deployment.
 * Supervised, unsupervised, recommendation, time series, and deep learning models.
